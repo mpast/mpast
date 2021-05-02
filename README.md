@@ -1,5 +1,5 @@
 
-# <img src="https://raw.githubusercontent.com/mpast/mpast/master/assets/wave.gif" width="20px"> Hello everyone 
+# <img src="https://raw.githubusercontent.com/mpast/mpast/main/assets/wave.gif" width="30px"> Hello everyone 
 
 ### :house: About me 
 
